@@ -6,8 +6,8 @@ Route-based guided audio platform.
 
 ### Core Documents
 
-- Stitcher Method v1
-- Parallel GPX Trigger Handling v1
+- [Stitcher Method v1](stitcher-method-v1.md)
+- [Parallel GPX Trigger Handling v1](parallel-gpx-trigger-v1.md)
 
 ## Overview
 
